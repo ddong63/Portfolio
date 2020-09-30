@@ -4,7 +4,7 @@
 - Check notes and determine the notes for manual review.
 - Developed resynthesis algorithm used for replacing identifiers (name, address, etc) with surrogates back into the raw text.  
 
-![](pics/De-identification pipeline.png)
+![](pics/de-id.png)
 
 <!-- <img src="https://github.com/ddong63/Portfolio/blob/28667bafeba1050dd874dc1c29ecfff0de7ccd22/pics/De-identification%20pipeline.png" height="400" /> -->
 
