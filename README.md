@@ -14,7 +14,7 @@ Scope: clustered 48 antigens into 4 groups.
 
 - Fitted standardized data across time point and treatment groups. 
 - Applied hierarchical clustering algorithm with Ward’s minimum variance method to find compact, spherical clusters.
-- Chose the best number of clusters by cutting the corresponding hierachical tree based on their Pearson's correlation.
+- Chose the best number of clusters by cutting the corresponding hierarchical tree based on their Pearson's correlation.
 
 ![](pics/cluster.png)
 
