@@ -8,7 +8,17 @@
 
 <!-- <img src="https://github.com/ddong63/Portfolio/blob/28667bafeba1050dd874dc1c29ecfff0de7ccd22/pics/De-identification%20pipeline.png" height="400" /> -->
 
-## Project 2: Lending Club Loan Risk Prediction 
+## Project 2: Cluster Membership
+
+Scope: clustered 48 antigens into 4 groups. 
+
+- Fitted standardized data across time point and treatment groups. 
+- Applied hierarchical clustering algorithm with Ward’s minimum variance method to find compact, spherical clusters.
+- Chose the best number of clusters by cutting the corresponding hierachical tree based on their Pearson's correlation.
+
+![](pics/cluster.png)
+
+## Project 3: Lending Club Loan Risk Prediction 
 
 Data size: 500k+; Data Source: [Link](https://www.lendingclub.com/statistics/additional-statistics?)
 
@@ -21,7 +31,7 @@ Data size: 500k+; Data Source: [Link](https://www.lendingclub.com/statistics/add
 <!-- <img src="https://github.com/ddong63/Portfolio/blob/a00094416c6b791ecf9a079114e59be19e237922/pics/lending_club.png" height="400" /> -->
 
 
-## Project 3: Data Visualization of COVID 
+## Project 4: Data Visualization of COVID 
 
 Dashboard: [link](https://ddong63.github.io/COVID-19/)
 
