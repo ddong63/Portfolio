@@ -1,4 +1,16 @@
-## Project 1: De-Identification Pipeline [wiki](https://github.com/FredHutch/nlp-airflow-dags/wiki)
+## Project 1: Data Visualization of COVID 
+
+Dashboard: [link](https://ddong63.github.io/COVID-19/)
+
+- Processed the COVID structured data (incl. data quality check) using dplyr
+- Created plots with ggplot2 and plotly to show the trends over time
+
+![](pics/data-viz.png)
+<!-- <img src="https://github.com/ddong63/Portfolio/blob/28667bafeba1050dd874dc1c29ecfff0de7ccd22/pics/data-viz.png" height="400" /> -->
+
+
+
+## Project 2: De-Identification Pipeline [wiki](https://github.com/FredHutch/nlp-airflow-dags/wiki)
 
 - Pull notes from the server and identify personal health information (PHI) using Name Entity Recognition algorithms.
 - Check notes and determine the notes for manual review.
@@ -8,7 +20,7 @@
 
 <!-- <img src="https://github.com/ddong63/Portfolio/blob/28667bafeba1050dd874dc1c29ecfff0de7ccd22/pics/De-identification%20pipeline.png" height="400" /> -->
 
-## Project 2: Cluster Membership
+## Project 3: Cluster Membership
 
 Scope: clustered 48 antigens into 4 groups. 
 
@@ -18,7 +30,7 @@ Scope: clustered 48 antigens into 4 groups.
 
 ![](pics/cluster.png)
 
-## Project 3: Lending Club Loan Risk Prediction 
+## Project 4: Lending Club Loan Risk Prediction 
 
 Data size: 500k+; Data Source: [Link](https://www.lendingclub.com/statistics/additional-statistics?)
 
@@ -29,17 +41,5 @@ Data size: 500k+; Data Source: [Link](https://www.lendingclub.com/statistics/add
 
 ![](pics/lending_club.png)
 <!-- <img src="https://github.com/ddong63/Portfolio/blob/a00094416c6b791ecf9a079114e59be19e237922/pics/lending_club.png" height="400" /> -->
-
-
-## Project 4: Data Visualization of COVID 
-
-Dashboard: [link](https://ddong63.github.io/COVID-19/)
-
-- Processed the COVID structured data (incl. data quality check) using dplyr
-- Created plots with ggplot2 and plotly to show the trends over time
-
-![](pics/data-viz.png)
-<!-- <img src="https://github.com/ddong63/Portfolio/blob/28667bafeba1050dd874dc1c29ecfff0de7ccd22/pics/data-viz.png" height="400" /> -->
-
 
 
